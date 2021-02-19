@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/Users/vguerand/Library/Caches/tinygo/goroot-go1.14-c9a5d14e577bf617d621ac19053d5531b99eb3fa063c57c3e8a0f31261765d56-syscall",
+        "GOFLAGS": "-tags=arduino_mega2560,atmega2560,atmega,avr,baremetal,linux,arm,tinygo,gc.conservative,scheduler.none"
+    }
+}
